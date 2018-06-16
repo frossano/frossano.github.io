@@ -27,7 +27,7 @@ working with them side by side.
 ## Skillset
 **Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems.
 
-**Soft:** Team Management, 
+**Soft:** Comunication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation
 
 **Languages:** Italian (Native speaker), English (Full professional proficiency),
 French (Limited working proficiency)
