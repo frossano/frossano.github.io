@@ -22,11 +22,16 @@ configuring them.
 
 Previously, I was Application Analyst in various healthcare companies, both in
 Italiy and the United Kingdom, helping customers achieve their targets and
-working with them side by side. 
+working with them side by side.
 
 ## Skillset
+**Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems.
 
-Change Management, Full Project Lifecycle Management, Team Management
+**Soft:** Team Management, 
+
+**Languages:** Italian (Native speaker), English (Full professional proficiency),
+French (Limited working proficiency)
+
 ## Experience
 
 
