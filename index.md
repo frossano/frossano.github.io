@@ -37,10 +37,10 @@ French (Limited working proficiency)
 
 ## Education
 2000 - 2003 <br>
-Università di Bologna, Degree in Electrionic Engineering, 103/100
+Università di Bologna, Degree in Electrionic Engineering, 103/110
 
 2003 - 2007 <br>
-Università di Bologna, Master Degree in Electrionic Engineering for Biomedical Application, 106/100
+Università di Bologna, Master Degree in Electrionic Engineering for Biomedical Application, 106/110
 
 2006-2007<br>
 Research internship for Master Thesis at KTH Royal Institute of Technology in Stockholm.
