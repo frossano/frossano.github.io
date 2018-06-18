@@ -15,10 +15,7 @@ improving quality of care, addressing operational inefficiencies, minimizing
 clinical risks, and trying to make the stakeholders happy.
 
 As part of a career move toward a more product-oriented role, I am also working
-with our Product Team,gathering requirements, prototyping new functionalities and
-configuring them.
-
-*FIXME* prototyping new functionalities and taking them from requirements gathering stage to implementation stage
+with our Product Team, prototyping new functionalities and taking them from requirements gathering stage to implementation stage.
 
 Previously, I was Application Analyst in various healthcare companies, both in
 Italiy and the United Kingdom, helping customers achieve their targets and
