@@ -31,21 +31,25 @@ French (Limited working proficiency)
 
 ## Experience
 
-##### April 2018 - ongoing
+##### Clinical Lead Analyst @ Intersystems
+*April 2018 - ongoing*
 
 As Clinical Lead Analyst at Intersystems, my job is to coordinate the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
 As Product Specialist, I take part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
 As a Product Expert, I am the main provider of knowledge about a few produt modules across UK.
 
-##### June 2014 - April 2018
+##### Application Analyst
+*June 2014 - April 2018*
 I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
 I also contributed to the development of two different Regional flavours of the product.
 
-##### September 2012 - May 2014
+##### Team Lead @ NoemaLife
+*September 2012 - May 2014*
 
-Team Lead at NoemaLife. I managed a team of consultant during the project implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process.
+As a Team Lead at NoemaLife, I managed a team of consultant during the project implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process.
 
-##### October 2007 - August 2012
+##### Analyst @ NoemaLife
+*October 2007 - August 2012*
 Analyst at NoemaLife. My main responsibility were around installation and system configuration activities. I was on charge of developing customer-specific PL/SQL procedures and functions, and of the deployment activities for new patches/releases.
 I also developed third-party Systems integration (ADT, MPI, LIS, RIS, PACS, CPOE, EMR, EHR) using HL7.
 
