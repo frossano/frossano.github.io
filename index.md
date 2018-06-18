@@ -25,14 +25,26 @@ Italiy and the United Kingdom, helping customers achieve their targets and
 working with them side by side.
 
 ## Skillset
-**Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems.
+**Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL. 
 
-**Soft:** Comunication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation
+**Soft:** Comunication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation, Time Management.
 
 **Languages:** Italian (Native speaker), English (Full professional proficiency),
 French (Limited working proficiency)
 
 ## Experience
+
+##### April 2018 - ongoing
+
+As Clinical Lead Analyst at Intersystems, my job is to coordinate the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record.
+As Product Specialist, I take part in the product development, managing requirement evaluation and contributing to the final development in the Global solution.
+As a Product Expert, I am the main provider of knowledge about a few produt modules across UK.
+
+##### June 2014 - Aprile 2018
+I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.
+I also contributed to the development of two different Regional flavours of the product.
+
+
 
 
 ## Education
