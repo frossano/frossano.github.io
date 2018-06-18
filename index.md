@@ -33,12 +33,12 @@ French (Limited working proficiency)
 
 ##### April 2018 - ongoing
 
-As Clinical Lead Analyst at Intersystems, my job is to coordinate the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record.
-As Product Specialist, I take part in the product development, managing requirement evaluation and contributing to the final development in the Global solution.
+As Clinical Lead Analyst at Intersystems, my job is to coordinate the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
+As Product Specialist, I take part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
 As a Product Expert, I am the main provider of knowledge about a few produt modules across UK.
 
 ##### June 2014 - April 2018
-I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.
+I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
 I also contributed to the development of two different Regional flavours of the product.
 
 ##### September 2012 - May 2014
