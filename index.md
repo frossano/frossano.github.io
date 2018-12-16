@@ -3,7 +3,7 @@
 | | |
 |---|---|
 |*Nationality*| Italian|
-|*Address*|17/3 Dean Terrace, EH41NL, Edinburgh, UK|
+|*Address*|Flat 8, 15 West Tollcross, EH3 9QN, Edinburgh, UK|
 |*Phone number*| +447446535030|
 |*email*|fabrizia.rossano@gmail.com|
 
@@ -15,11 +15,14 @@ improving quality of care, addressing operational inefficiencies, minimizing
 clinical risks, and trying to make the stakeholders happy.
 
 As part of a career move toward a more product-oriented role, I am also working
-with our Product Team, prototyping new functionalities and taking them from requirements gathering stage to implementation stage.
+with our Product Team, prototyping the new product interface and helping them to prioritise the development based on Customers needs.
+I am also involved in developing new functionalities, taking care of all stages, from requirements gathering stage to implementation.
 
 Previously, I was Application Analyst in various healthcare companies, both in
 Italiy and the United Kingdom, helping customers achieve their targets and
 working with them side by side.
+
+In my free time, I love travelling (keeping an eye at the budget), possibly in a place where i can scuba dive. I also love sports, cooking and all sort of manual activities.
 
 ## Skillset
 **Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL.
@@ -50,6 +53,7 @@ As a Team Lead at NoemaLife, I managed a team of consultant during the project i
 
 ##### Analyst @ NoemaLife
 *October 2007 - August 2012*
+
 Analyst at NoemaLife. My main responsibility were around installation and system configuration activities. I was on charge of developing customer-specific PL/SQL procedures and functions, and of the deployment activities for new patches/releases.
 I also developed third-party Systems integration (ADT, MPI, LIS, RIS, PACS, CPOE, EMR, EHR) using HL7.
 
@@ -61,5 +65,5 @@ Università di Bologna, Degree in Electrionic Engineering, 103/110
 2003 - 2007 <br>
 Università di Bologna, Master Degree in Electrionic Engineering for Biomedical Application, 106/110
 
-2006-2007<br>
+2006-2007 <br>
 Research internship for Master Thesis at KTH Royal Institute of Technology in Stockholm.
