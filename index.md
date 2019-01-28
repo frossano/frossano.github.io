@@ -19,9 +19,9 @@ with our Product Team, prototyping the new product interface and helping them to
 I am also involved in developing new functionalities, taking care of all stages, from requirements gathering stage to implementation.
 
 Previously, I worked in various healthcare companies, both in
-Italy and the United Kingdom, helping customers achieve their targets and working with them side by side. I also have a more technical past, working on developing interfaces for medical systems and collaborating closely with backend and frontend developers to achieve the best result for the solution, and sometimes working on the backend to fix bugs and develop new functionalities. 
+Italy and the United Kingdom, helping customers achieve their targets and working with them side by side. I also have a more technical past, working on developing interfaces for medical systems and collaborating closely with backend and frontend developers to achieve the best result for the solution, and sometimes working on the backend to fix bugs and develop new functionalities.
 
-I am a very result-oriented person and I love working in a team of like-minded people.
+I am a very result-oriented person and I love being in teams that include different roles and experiences. 
 
 ## Skillset
 **Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL, Interfaces, Technical Writing.
