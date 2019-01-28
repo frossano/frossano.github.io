@@ -18,14 +18,13 @@ As part of a career move toward a more product-oriented role, I am also working
 with our Product Team, prototyping the new product interface and helping them to prioritise the development based on Customers needs.
 I am also involved in developing new functionalities, taking care of all stages, from requirements gathering stage to implementation.
 
-Previously, I was Application Analyst in various healthcare companies, both in
-Italiy and the United Kingdom, helping customers achieve their targets and
-working with them side by side.
+Previously, I worked in various healthcare companies, both in
+Italy and the United Kingdom, helping customers achieve their targets and working with them side by side. I also have a more technical past, working on developing interfaces for medical systems and collaborating closely with backend and frontend developers to achieve the best result for the solution, and sometimes working on the backend to fix bugs and develop new functionalities. TEST
 
-In my free time, I love travelling (keeping an eye at the budget), possibly in a place where i can scuba dive. I also love sports, cooking and all sort of manual activities.
+I am a very result-oriented person and I love working in a team of like-minded people.
 
 ## Skillset
-**Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL.
+**Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL, Interfaces, Technical Writing.
 
 **Soft:** Comunication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation, Time Management.
 
