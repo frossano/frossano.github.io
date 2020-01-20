@@ -8,20 +8,11 @@
 |*email*|fabrizia.rossano@gmail.com|
 
 ## Summary
-Right now I am Clinical Lead Analyst at Intersystems, responsible for a small
-team collaborating with our customers to deploy and configure the clinical
-platform. We do so by helping them restructure their processes, aiming at
-improving quality of care, addressing operational inefficiencies, minimizing
-clinical risks, and trying to make the stakeholders happy.
+I work as a Product Manager (technical) for Craneware, an healthcare software company based in Edinburgh.
 
-As part of a career move toward a more product-oriented role, I am also working
-with our Product Team, prototyping the new product interface and helping them to prioritise the development based on Customers needs.
-I am also involved in developing new functionalities, taking care of all stages, from requirements gathering stage to implementation.
+Previously, I worked in various healthcare companies, both in Italy and the United Kingdom, helping customers achieve their targets and working with them side by side. I also have a more technical past, working on developing interfaces for medical systems and collaborating closely with backend and frontend developers to achieve the best result for the solution, and sometimes working on the backend to fix bugs and develop new functionalities.
 
-Previously, I worked in various healthcare companies, both in
-Italy and the United Kingdom, helping customers achieve their targets and working with them side by side. I also have a more technical past, working on developing interfaces for medical systems and collaborating closely with backend and frontend developers to achieve the best result for the solution, and sometimes working on the backend to fix bugs and develop new functionalities.
-
-I am a very result-oriented person and I love being in teams that include different roles and experiences. 
+I am a very result-oriented person and I love being in teams that include different roles and experiences.
 
 ## Skillset
 **Technical:** Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL, Interfaces, Technical Writing.
@@ -32,9 +23,11 @@ I am a very result-oriented person and I love being in teams that include differ
 French (Limited working proficiency)
 
 ## Experience
+##### Product Manager @ Craneware
+*May 2019 - current*
 
 ##### Clinical Lead Analyst @ Intersystems
-*April 2018 - ongoing*
+*April 2018 - April 2019*
 
 As Clinical Lead Analyst at Intersystems, my job is to coordinate the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
 As Product Specialist, I take part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
