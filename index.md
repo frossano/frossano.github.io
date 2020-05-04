@@ -8,7 +8,7 @@
 |*email*|fabrizia.rossano@gmail.com|
 
 ## Summary
-My current role is Product Manager for Craneware, an healthcare software company based in Edinburgh. The teams I work with are focused on developing and maintaning the backend infrastucture of the cloud platform and delivering new tools to enable the growth of the entire product suite.
+My current role is Platform Product Manager for Craneware, an healthcare software company based in Edinburgh, reporting directly to the VP of Product. The teams I work with are focused on developing and maintaning the company platform and delivering new tools to enable the growth of the entire product suite.
 
 Previously, I worked in different healthcare companies, across different European countries, helping customers achieve their targets and working with them side by side.
 
@@ -25,19 +25,20 @@ I am a very result-oriented person and I love working in cross functional teams 
 French (Limited working proficiency), Spanish (starter)
 
 ## Experience
-##### Product Manager @ Craneware
+##### Platform Product Manager @ Craneware
 *May 2019 - current*
 
-I joined Craneware to work on one of the cloud-based products, participating both in the strategy and delivery. I helped steer the vision and the roadmap so that the company could deliver more value to our customers. <br>
-My role then expanded to take care of the product platform, helping to deliver the building block of our solution. My current goal is to help deliver the building blocks that will enable the company to grow and scale in the near future.
-work with a cross functional team.
+In the Platform Product Manager role, I report direclty to the VP of Product Management Development. I work directly with senior stakeholders, and with the product teams responsible for the delivery, to ensure that the communication flows seamelessy in both directions. <br>
+My current goal is to drive the delivery of the building blocks that will enable the company to grow and scale in the near future, by ensuring that the focus of the delivery teams is on the company vision. <br>
+My strength in this role is to work cross-functionally to ensure that all the stakeholders are accounted for and to sustain the communication among business functions.
 
 ##### Clinical Lead Analyst and Product Specialist @ Intersystems, seconded to Product Management
 *April 2018 - April 2019*
 
-Although my job  title was Clinical Lead Analyst, I was seconded to Product Management with a 50% time share.<br>
-I coordinated the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
-As Product Manager, I took part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
+During this time, my work was split 50/50 between my role as Clinical Lead Analyst and Product Management for the Electronic Patient Record. <br>
+As Clinical Lead Analyst and Product Specialist, I coordinated the work of other Application Analyst on customer sites, and advised customers on the solution definition and implementation of thier Electronic Patient Record. <br>
+As Product Manager, I lead the development of two modules for the Regional flavour of the product, managing requirement evaluation and delivery, I also collaborated with the rest of the product team to prioritise the Roadmap for the UK.
+I was also part of the team that worked to define the common requirements for the Global solution. <br>
 As Product Expert, I was one of the main provider of knowledge about a few products specific to UK market.
 
 ##### Application Analyst
