@@ -30,13 +30,15 @@ French (Limited working proficiency), Spanish (starter)
 
 I joined Craneware to work on one of the cloud-based products, participating both in the strategy and delivery. I helped steer the vision and the roadmap so that the company could deliver more value to our customers. <br>
 My role then expanded to take care of the product platform, helping to deliver the building block of our solution. My current goal is to help deliver the building blocks that will enable the company to grow and scale in the near future.
+work with a cross functional team.
 
-##### Clinical Lead Analyst and Product Specialist @ Intersystems
+##### Clinical Lead Analyst and Product Specialist @ Intersystems, seconded to Product Management
 *April 2018 - April 2019*
 
-As Clinical Lead Analyst at Intersystems, I coordinated the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
-As Product Specialist, I took part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
-As a Product Expert, I was one of the main provider of knowledge about a few produt modules across UK.
+Although my job  title was Clinical Lead Analyst, I was seconded to Product Management with a 50% time share.<br>
+I coordinated the work of other Application Analyst on customer sites and to provide consultancy in solution definition and implementation for Electronic Patient Record. <br>
+As Product Manager, I took part in the product development, managing requirement evaluation and contributing to the final development in the Global solution. <br>
+As Product Expert, I was one of the main provider of knowledge about a few products specific to UK market.
 
 ##### Application Analyst
 *June 2014 - April 2018*
