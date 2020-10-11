@@ -41,17 +41,25 @@ As Product Manager, I lead the development of two modules for the Regional flavo
 I was also part of the team that worked to define the common requirements for the Global solution. <br>
 As Product Expert, I was one of the main provider of knowledge about a few products specific to UK market.
 
-##### Application Analyst
-*June 2014 - April 2018*
-I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
+##### Application Specialist/Product Manager in time share, UK
+*June 2016 - April 2018*
+
+Working as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
 I also contributed to the development of two different Regional flavours of the product.
 
-##### Implementation Team Lead @ NoemaLife
+##### Application Specialist, Italy
+*June 2014 - May 2016*
+
+I started working in this company as Application Specialist, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
+While in this role, I realised that I really liked listening to users, understanding their pain points, and coming up with solutions to solve them. This sparked my interest for a career in product.
+Being with the customer daily made me realise how much of a change in their life we could make, by improving products; this is even more true in a field like healthcare. It helped me learn how to empathise with the people actually using and working with the software, so I started to bring some of my insight to the product team and collaborating with them in prototyping solutions to get early customer feedback.
+
+##### Implementation Team Lead @ NoemaLife, Italy
 *September 2012 - May 2014*
 
-As a company grew, I moved to a more managerial role as Implementation Team Lead, where I managed a team of consultant during implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process. I alo kept my role as developer of the HL7 interfaces. 
+As a company grew, I moved to a more managerial role as Implementation Team Lead, where I managed a team of consultant during implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process. I alo kept my role as developer of the HL7 interfaces.
 
-##### Analyst @ NoemaLife
+##### Analyst @ NoemaLife, Italy
 *October 2007 - August 2012*
 
 I joined this company in the early stages. As analyst, my main responsibility were around installation and system configuration activities. In reality, every person of the team was responsible for the overall build and delivery of the product. I was on charge of developing both custom and product procedures and functions in PL/SQL, and of the deployment activities for new releases.
