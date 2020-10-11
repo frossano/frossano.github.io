@@ -46,16 +46,17 @@ As Product Expert, I was one of the main provider of knowledge about a few produ
 I worked at Intersystems as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
 I also contributed to the development of two different Regional flavours of the product.
 
-##### Team Lead @ NoemaLife
+##### Implementation Team Lead @ NoemaLife
 *September 2012 - May 2014*
 
-As a Team Lead at NoemaLife, I managed a team of consultant during the project implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process.
+As a company grew, I moved to a more managerial role as Implementation Team Lead, where I managed a team of consultant during implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process. I alo kept my role as developer of the HL7 interfaces. 
 
 ##### Analyst @ NoemaLife
 *October 2007 - August 2012*
 
-Analyst at NoemaLife. My main responsibility were around installation and system configuration activities. I was on charge of developing customer-specific PL/SQL procedures and functions, and of the deployment activities for new patches/releases.
-I also developed third-party Systems integration (ADT, MPI, LIS, RIS, PACS, CPOE, EHR, HIS) using HL7.
+I joined this company in the early stages. As analyst, my main responsibility were around installation and system configuration activities. In reality, every person of the team was responsible for the overall build and delivery of the product. I was on charge of developing both custom and product procedures and functions in PL/SQL, and of the deployment activities for new releases.
+I also developed HL7 integration with third-party Systems (ADT, MPI, LIS, RIS, PACS, CPOE, EHR, HIS) using a combination of Java and PL/SQL.
+In 2009 I was promotes to a senior analyst role and became completely responsible for the whole HL7 interfaces for the EMR system (inbound and outbound).
 
 
 ## Education
