@@ -36,16 +36,17 @@ My strength in this role is to work cross-functionally to ensure that all the st
 *April 2018 - April 2019*
 
 During this time, my work was split 50/50 between my role as Clinical Lead Analyst and Product Management for the Electronic Patient Record. <br>
-As Clinical Lead Analyst and Product Specialist, I coordinated the work of other Application Analyst on customer sites, and advised customers on the solution definition and implementation of thier Electronic Patient Record. <br>
-As Product Manager, I lead the development of two modules for the Regional flavour of the product, managing requirement evaluation and delivery, I also collaborated with the rest of the product team to prioritise the Roadmap for the UK.
-I was also part of the team that worked to define the common requirements for the Global solution. <br>
-As Product Expert, I was one of the main provider of knowledge about a few products specific to UK market.
+As Product Manager, I was working on both the Global and the Regional (UK) Edition of Intersystems HIS solution, mainly responsible for the Operating Theatre module including its real time device integration, and the mobile app.<br>
+In this capacity, I managed the modules from requirement gathering to the presentation of the prototypes to customers. I also worked with the Sales team to support the pre-sale demos. <br>
+For the role of Clinical Lead Analyst and Product Specialist, I kept one customer that was a private hospital. There, I coordinated the work of other Application Analyst, and advised the customer on the solution definition and implementation of thier Electronic Patient Record. <br>
+I also participated in training and mentoring new hires for the role. 
 
 ##### Application Specialist/Product Manager in time share, UK
 *June 2016 - April 2018*
 
-Working as Application Analyst across different countries, providing support during several implementation and leading the Customers to acquire and improve ownership of the solution deployed.<br>
-I also contributed to the development of two different Regional flavours of the product.
+In 2016 I moved to the UK, and started working part time in a Product Manager role. I was part of the product team responsible for the improvements on the A&E and Inpatient modules of Intersystems HIS solution. <br> This included working with other owner for the module in different counties, to ensure that the global solution would be flexible enough to cater for the needs of every region. Participating in this project improved my collaboration and alignment skills. <br>
+The product team was split across different continents, and this made me learn how to keep collaborating and how to reach objectives even when synchronous communication was difficult.<br>
+I also kept working with customers in my Application Specialist capacity, going throught the full implementation cycle with some NHS hospitals.
 
 ##### Application Specialist, Italy
 *June 2014 - May 2016*
@@ -57,7 +58,7 @@ Being with the customer daily made me realise how much of a change in their life
 ##### Implementation Team Lead @ NoemaLife, Italy
 *September 2012 - May 2014*
 
-As a company grew, I moved to a more managerial role as Implementation Team Lead, where I managed a team of consultant during implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process. I alo kept my role as developer of the HL7 interfaces.
+As a company grew, I moved to a more managerial role as Implementation Team Lead, where I managed a team of consultant during implementation phase. I supported the creation and management of project quality documentation, and managed several projects during the entire lifecycle, from requirement gathering to go-live, with special attention to the training process. I alo kept my role as developer of the HL7 interfaces, and worked with the Sales team for the pre-sale process, managing all the demos for the mobile solution.
 
 ##### Analyst @ NoemaLife, Italy
 *October 2007 - August 2012*
