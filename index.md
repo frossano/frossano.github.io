@@ -19,7 +19,7 @@ I am a very result-oriented person and I love working in cross functional teams 
 ## Skillset
 **Technical:** Product Management, Change Management, Full Project Lifecycle Management, Requirements Gathering, Requirement Analysis, Solution design, Decision Support Systems, Troubleshooting, SQL, PL/SQL, Interfaces, Technical Writing.
 
-**Soft:** Comunication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation, Time Management.
+**Soft:** Adaptability, Communication, Problem Solving, Leadership, Teamwork, Responsibility, Team management, Conflict Resolution, Decisiveness, Self-motivation, Time Management, Inclusion.
 
 **Languages:** Italian (Native speaker), English (Full professional proficiency),
 French (Limited working proficiency), Spanish (starter)
