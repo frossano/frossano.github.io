@@ -25,7 +25,7 @@ I am a very result-oriented person and I love working in cross functional teams 
 French (Limited working proficiency), Spanish (starter)
 
 ## Experience
-##### Platform Product Manager @ Craneware
+##### Platform Product Manager @ Craneware, UK
 *May 2019 - current*
 
 In the Platform Product Manager role, I report direclty to the VP of Product Management Development. I work with senior stakeholders, and with the product teams responsible for the delivery, to ensure that the communication flows seamelessy in both directions. <br>
@@ -33,7 +33,7 @@ My current goal is to drive the delivery of the building blocks that will enable
 As additional responsibility, I am part of the team that is creating and delivering our Data Platform, to ensure that our customers can get the greatest insights from their data. <br>
 My strength in this role is to work cross-functionally to ensure that all the stakeholders are accounted for and to sustain the communication among business functions.
 
-##### Clinical Lead Analyst and Product Specialist @ Intersystems, seconded to Product Management
+##### Clinical Lead Analyst and Product Specialist @ Intersystems, seconded to Product Management, UK
 *April 2018 - April 2019*
 
 During this time, my work was split 50/50 between my role as Clinical Lead Analyst and Product Management for the Electronic Patient Record. <br>
