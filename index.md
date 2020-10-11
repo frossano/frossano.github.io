@@ -28,8 +28,9 @@ French (Limited working proficiency), Spanish (starter)
 ##### Platform Product Manager @ Craneware
 *May 2019 - current*
 
-In the Platform Product Manager role, I report direclty to the VP of Product Management Development. I work directly with senior stakeholders, and with the product teams responsible for the delivery, to ensure that the communication flows seamelessy in both directions. <br>
+In the Platform Product Manager role, I report direclty to the VP of Product Management Development. I work with senior stakeholders, and with the product teams responsible for the delivery, to ensure that the communication flows seamelessy in both directions. <br>
 My current goal is to drive the delivery of the building blocks that will enable the company to grow and scale in the near future, by ensuring that the focus of the delivery teams is on the company vision. <br>
+As additional responsibility, I am part of the team that is creating and delivering our Data Platform, to ensure that our customers can get the greatest insights from their data. <br>
 My strength in this role is to work cross-functionally to ensure that all the stakeholders are accounted for and to sustain the communication among business functions.
 
 ##### Clinical Lead Analyst and Product Specialist @ Intersystems, seconded to Product Management
@@ -39,7 +40,7 @@ During this time, my work was split 50/50 between my role as Clinical Lead Analy
 As Product Manager, I was working on both the Global and the Regional (UK) Edition of Intersystems HIS solution, mainly responsible for the Operating Theatre module including its real time device integration, and the mobile app.<br>
 In this capacity, I managed the modules from requirement gathering to the presentation of the prototypes to customers. I also worked with the Sales team to support the pre-sale demos. <br>
 For the role of Clinical Lead Analyst and Product Specialist, I kept one customer that was a private hospital. There, I coordinated the work of other Application Analyst, and advised the customer on the solution definition and implementation of thier Electronic Patient Record. <br>
-I also participated in training and mentoring new hires for the role. 
+I also participated in training and mentoring new hires for the role.
 
 ##### Application Specialist/Product Manager in time share, UK
 *June 2016 - April 2018*
